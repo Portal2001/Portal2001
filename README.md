@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About me
-- 🔭 I’m currently working on a minecarft plugin
+- 🔭 I’m currently working on a minecarft plugin papercurrency
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: discord Portal#0388
 
