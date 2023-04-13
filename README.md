@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Portal2001</h1>
-<h3 align="center">Just guy love to make things and play games and watch anime</h3>
+<h3 align="center">Just guy love to make things, play games and watch anime</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=portal2001&label=Profile%20views&color=0e75b6&style=flat" alt="portal2001" /> </p>
 
