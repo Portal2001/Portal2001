@@ -14,7 +14,7 @@ About me
 
 - 👨‍💻 All of my projects are available at spigotmc, gitgub and modrinth
 
-- 📫 How to reach me **discord Portal#0388**
+- 📫 How to reach me **discord portal2001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
